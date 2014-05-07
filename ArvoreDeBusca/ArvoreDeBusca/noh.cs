@@ -30,7 +30,7 @@ namespace ArvoreDeBusca
             get{ return esquerda; }
         }
 
-        public void setValor(int val)
+        public void setValor(int? val)
         {
             valor = val;
         }
